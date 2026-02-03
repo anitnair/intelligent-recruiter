@@ -80,7 +80,7 @@ def process_all_resumes(resume_paths: List[str]) -> List[Dict]:
         data['candidate_id'] = f"CAND_{i:04d}"
         structured_data.append(data)
 
-    return structured_data
+    return x
 
 if __name__ == '__main__':
     # Example usage

@@ -1,0 +1,963 @@
+candidate_id,Category
+0,Data Science
+1,Data Science
+2,Data Science
+3,Data Science
+4,Data Science
+5,Data Science
+6,Data Science
+7,Data Science
+8,Data Science
+9,Data Science
+10,Data Science
+11,Data Science
+12,Data Science
+13,Data Science
+14,Data Science
+15,Data Science
+16,Data Science
+17,Data Science
+18,Data Science
+19,Data Science
+20,Data Science
+21,Data Science
+22,Data Science
+23,Data Science
+24,Data Science
+25,Data Science
+26,Data Science
+27,Data Science
+28,Data Science
+29,Data Science
+30,Data Science
+31,Data Science
+32,Data Science
+33,Data Science
+34,Data Science
+35,Data Science
+36,Data Science
+37,Data Science
+38,Data Science
+39,Data Science
+40,HR
+41,HR
+42,HR
+43,HR
+44,HR
+45,HR
+46,HR
+47,HR
+48,HR
+49,HR
+50,HR
+51,HR
+52,HR
+53,HR
+54,HR
+55,HR
+56,HR
+57,HR
+58,HR
+59,HR
+60,HR
+61,HR
+62,HR
+63,HR
+64,HR
+65,HR
+66,HR
+67,HR
+68,HR
+69,HR
+70,HR
+71,HR
+72,HR
+73,HR
+74,HR
+75,HR
+76,HR
+77,HR
+78,HR
+79,HR
+80,HR
+81,HR
+82,HR
+83,HR
+84,Advocate
+85,Advocate
+86,Advocate
+87,Advocate
+88,Advocate
+89,Advocate
+90,Advocate
+91,Advocate
+92,Advocate
+93,Advocate
+94,Advocate
+95,Advocate
+96,Advocate
+97,Advocate
+98,Advocate
+99,Advocate
+100,Advocate
+101,Advocate
+102,Advocate
+103,Advocate
+104,Arts
+105,Arts
+106,Arts
+107,Arts
+108,Arts
+109,Arts
+110,Arts
+111,Arts
+112,Arts
+113,Arts
+114,Arts
+115,Arts
+116,Arts
+117,Arts
+118,Arts
+119,Arts
+120,Arts
+121,Arts
+122,Arts
+123,Arts
+124,Arts
+125,Arts
+126,Arts
+127,Arts
+128,Arts
+129,Arts
+130,Arts
+131,Arts
+132,Arts
+133,Arts
+134,Arts
+135,Arts
+136,Arts
+137,Arts
+138,Arts
+139,Arts
+140,Web Designing
+141,Web Designing
+142,Web Designing
+143,Web Designing
+144,Web Designing
+145,Web Designing
+146,Web Designing
+147,Web Designing
+148,Web Designing
+149,Web Designing
+150,Web Designing
+151,Web Designing
+152,Web Designing
+153,Web Designing
+154,Web Designing
+155,Web Designing
+156,Web Designing
+157,Web Designing
+158,Web Designing
+159,Web Designing
+160,Web Designing
+161,Web Designing
+162,Web Designing
+163,Web Designing
+164,Web Designing
+165,Web Designing
+166,Web Designing
+167,Web Designing
+168,Web Designing
+169,Web Designing
+170,Web Designing
+171,Web Designing
+172,Web Designing
+173,Web Designing
+174,Web Designing
+175,Web Designing
+176,Web Designing
+177,Web Designing
+178,Web Designing
+179,Web Designing
+180,Web Designing
+181,Web Designing
+182,Web Designing
+183,Web Designing
+184,Web Designing
+185,Mechanical Engineer
+186,Mechanical Engineer
+187,Mechanical Engineer
+188,Mechanical Engineer
+189,Mechanical Engineer
+190,Mechanical Engineer
+191,Mechanical Engineer
+192,Mechanical Engineer
+193,Mechanical Engineer
+194,Mechanical Engineer
+195,Mechanical Engineer
+196,Mechanical Engineer
+197,Mechanical Engineer
+198,Mechanical Engineer
+199,Mechanical Engineer
+200,Mechanical Engineer
+201,Mechanical Engineer
+202,Mechanical Engineer
+203,Mechanical Engineer
+204,Mechanical Engineer
+205,Mechanical Engineer
+206,Mechanical Engineer
+207,Mechanical Engineer
+208,Mechanical Engineer
+209,Mechanical Engineer
+210,Mechanical Engineer
+211,Mechanical Engineer
+212,Mechanical Engineer
+213,Mechanical Engineer
+214,Mechanical Engineer
+215,Mechanical Engineer
+216,Mechanical Engineer
+217,Mechanical Engineer
+218,Mechanical Engineer
+219,Mechanical Engineer
+220,Mechanical Engineer
+221,Mechanical Engineer
+222,Mechanical Engineer
+223,Mechanical Engineer
+224,Mechanical Engineer
+225,Sales
+226,Sales
+227,Sales
+228,Sales
+229,Sales
+230,Sales
+231,Sales
+232,Sales
+233,Sales
+234,Sales
+235,Sales
+236,Sales
+237,Sales
+238,Sales
+239,Sales
+240,Sales
+241,Sales
+242,Sales
+243,Sales
+244,Sales
+245,Sales
+246,Sales
+247,Sales
+248,Sales
+249,Sales
+250,Sales
+251,Sales
+252,Sales
+253,Sales
+254,Sales
+255,Sales
+256,Sales
+257,Sales
+258,Sales
+259,Sales
+260,Sales
+261,Sales
+262,Sales
+263,Sales
+264,Sales
+265,Health and fitness
+266,Health and fitness
+267,Health and fitness
+268,Health and fitness
+269,Health and fitness
+270,Health and fitness
+271,Health and fitness
+272,Health and fitness
+273,Health and fitness
+274,Health and fitness
+275,Health and fitness
+276,Health and fitness
+277,Health and fitness
+278,Health and fitness
+279,Health and fitness
+280,Health and fitness
+281,Health and fitness
+282,Health and fitness
+283,Health and fitness
+284,Health and fitness
+285,Health and fitness
+286,Health and fitness
+287,Health and fitness
+288,Health and fitness
+289,Health and fitness
+290,Health and fitness
+291,Health and fitness
+292,Health and fitness
+293,Health and fitness
+294,Health and fitness
+295,Civil Engineer
+296,Civil Engineer
+297,Civil Engineer
+298,Civil Engineer
+299,Civil Engineer
+300,Civil Engineer
+301,Civil Engineer
+302,Civil Engineer
+303,Civil Engineer
+304,Civil Engineer
+305,Civil Engineer
+306,Civil Engineer
+307,Civil Engineer
+308,Civil Engineer
+309,Civil Engineer
+310,Civil Engineer
+311,Civil Engineer
+312,Civil Engineer
+313,Civil Engineer
+314,Civil Engineer
+315,Civil Engineer
+316,Civil Engineer
+317,Civil Engineer
+318,Civil Engineer
+319,Java Developer
+320,Java Developer
+321,Java Developer
+322,Java Developer
+323,Java Developer
+324,Java Developer
+325,Java Developer
+326,Java Developer
+327,Java Developer
+328,Java Developer
+329,Java Developer
+330,Java Developer
+331,Java Developer
+332,Java Developer
+333,Java Developer
+334,Java Developer
+335,Java Developer
+336,Java Developer
+337,Java Developer
+338,Java Developer
+339,Java Developer
+340,Java Developer
+341,Java Developer
+342,Java Developer
+343,Java Developer
+344,Java Developer
+345,Java Developer
+346,Java Developer
+347,Java Developer
+348,Java Developer
+349,Java Developer
+350,Java Developer
+351,Java Developer
+352,Java Developer
+353,Java Developer
+354,Java Developer
+355,Java Developer
+356,Java Developer
+357,Java Developer
+358,Java Developer
+359,Java Developer
+360,Java Developer
+361,Java Developer
+362,Java Developer
+363,Java Developer
+364,Java Developer
+365,Java Developer
+366,Java Developer
+367,Java Developer
+368,Java Developer
+369,Java Developer
+370,Java Developer
+371,Java Developer
+372,Java Developer
+373,Java Developer
+374,Java Developer
+375,Java Developer
+376,Java Developer
+377,Java Developer
+378,Java Developer
+379,Java Developer
+380,Java Developer
+381,Java Developer
+382,Java Developer
+383,Java Developer
+384,Java Developer
+385,Java Developer
+386,Java Developer
+387,Java Developer
+388,Java Developer
+389,Java Developer
+390,Java Developer
+391,Java Developer
+392,Java Developer
+393,Java Developer
+394,Java Developer
+395,Java Developer
+396,Java Developer
+397,Java Developer
+398,Java Developer
+399,Java Developer
+400,Java Developer
+401,Java Developer
+402,Java Developer
+403,Business Analyst
+404,Business Analyst
+405,Business Analyst
+406,Business Analyst
+407,Business Analyst
+408,Business Analyst
+409,Business Analyst
+410,Business Analyst
+411,Business Analyst
+412,Business Analyst
+413,Business Analyst
+414,Business Analyst
+415,Business Analyst
+416,Business Analyst
+417,Business Analyst
+418,Business Analyst
+419,Business Analyst
+420,Business Analyst
+421,Business Analyst
+422,Business Analyst
+423,Business Analyst
+424,Business Analyst
+425,Business Analyst
+426,Business Analyst
+427,Business Analyst
+428,Business Analyst
+429,Business Analyst
+430,Business Analyst
+431,SAP Developer
+432,SAP Developer
+433,SAP Developer
+434,SAP Developer
+435,SAP Developer
+436,SAP Developer
+437,SAP Developer
+438,SAP Developer
+439,SAP Developer
+440,SAP Developer
+441,SAP Developer
+442,SAP Developer
+443,SAP Developer
+444,SAP Developer
+445,SAP Developer
+446,SAP Developer
+447,SAP Developer
+448,SAP Developer
+449,SAP Developer
+450,SAP Developer
+451,SAP Developer
+452,SAP Developer
+453,SAP Developer
+454,SAP Developer
+455,Automation Testing
+456,Automation Testing
+457,Automation Testing
+458,Automation Testing
+459,Automation Testing
+460,Automation Testing
+461,Automation Testing
+462,Automation Testing
+463,Automation Testing
+464,Automation Testing
+465,Automation Testing
+466,Automation Testing
+467,Automation Testing
+468,Automation Testing
+469,Automation Testing
+470,Automation Testing
+471,Automation Testing
+472,Automation Testing
+473,Automation Testing
+474,Automation Testing
+475,Automation Testing
+476,Automation Testing
+477,Automation Testing
+478,Automation Testing
+479,Automation Testing
+480,Automation Testing
+481,Electrical Engineering
+482,Electrical Engineering
+483,Electrical Engineering
+484,Electrical Engineering
+485,Electrical Engineering
+486,Electrical Engineering
+487,Electrical Engineering
+488,Electrical Engineering
+489,Electrical Engineering
+490,Electrical Engineering
+491,Electrical Engineering
+492,Electrical Engineering
+493,Electrical Engineering
+494,Electrical Engineering
+495,Electrical Engineering
+496,Electrical Engineering
+497,Electrical Engineering
+498,Electrical Engineering
+499,Electrical Engineering
+500,Electrical Engineering
+501,Electrical Engineering
+502,Electrical Engineering
+503,Electrical Engineering
+504,Electrical Engineering
+505,Electrical Engineering
+506,Electrical Engineering
+507,Electrical Engineering
+508,Electrical Engineering
+509,Electrical Engineering
+510,Electrical Engineering
+511,Operations Manager
+512,Operations Manager
+513,Operations Manager
+514,Operations Manager
+515,Operations Manager
+516,Operations Manager
+517,Operations Manager
+518,Operations Manager
+519,Operations Manager
+520,Operations Manager
+521,Operations Manager
+522,Operations Manager
+523,Operations Manager
+524,Operations Manager
+525,Operations Manager
+526,Operations Manager
+527,Operations Manager
+528,Operations Manager
+529,Operations Manager
+530,Operations Manager
+531,Operations Manager
+532,Operations Manager
+533,Operations Manager
+534,Operations Manager
+535,Operations Manager
+536,Operations Manager
+537,Operations Manager
+538,Operations Manager
+539,Operations Manager
+540,Operations Manager
+541,Operations Manager
+542,Operations Manager
+543,Operations Manager
+544,Operations Manager
+545,Operations Manager
+546,Operations Manager
+547,Operations Manager
+548,Operations Manager
+549,Operations Manager
+550,Operations Manager
+551,Python Developer
+552,Python Developer
+553,Python Developer
+554,Python Developer
+555,Python Developer
+556,Python Developer
+557,Python Developer
+558,Python Developer
+559,Python Developer
+560,Python Developer
+561,Python Developer
+562,Python Developer
+563,Python Developer
+564,Python Developer
+565,Python Developer
+566,Python Developer
+567,Python Developer
+568,Python Developer
+569,Python Developer
+570,Python Developer
+571,Python Developer
+572,Python Developer
+573,Python Developer
+574,Python Developer
+575,Python Developer
+576,Python Developer
+577,Python Developer
+578,Python Developer
+579,Python Developer
+580,Python Developer
+581,Python Developer
+582,Python Developer
+583,Python Developer
+584,Python Developer
+585,Python Developer
+586,Python Developer
+587,Python Developer
+588,Python Developer
+589,Python Developer
+590,Python Developer
+591,Python Developer
+592,Python Developer
+593,Python Developer
+594,Python Developer
+595,Python Developer
+596,Python Developer
+597,Python Developer
+598,Python Developer
+599,DevOps Engineer
+600,DevOps Engineer
+601,DevOps Engineer
+602,DevOps Engineer
+603,DevOps Engineer
+604,DevOps Engineer
+605,DevOps Engineer
+606,DevOps Engineer
+607,DevOps Engineer
+608,DevOps Engineer
+609,DevOps Engineer
+610,DevOps Engineer
+611,DevOps Engineer
+612,DevOps Engineer
+613,DevOps Engineer
+614,DevOps Engineer
+615,DevOps Engineer
+616,DevOps Engineer
+617,DevOps Engineer
+618,DevOps Engineer
+619,DevOps Engineer
+620,DevOps Engineer
+621,DevOps Engineer
+622,DevOps Engineer
+623,DevOps Engineer
+624,DevOps Engineer
+625,DevOps Engineer
+626,DevOps Engineer
+627,DevOps Engineer
+628,DevOps Engineer
+629,DevOps Engineer
+630,DevOps Engineer
+631,DevOps Engineer
+632,DevOps Engineer
+633,DevOps Engineer
+634,DevOps Engineer
+635,DevOps Engineer
+636,DevOps Engineer
+637,DevOps Engineer
+638,DevOps Engineer
+639,DevOps Engineer
+640,DevOps Engineer
+641,DevOps Engineer
+642,DevOps Engineer
+643,DevOps Engineer
+644,DevOps Engineer
+645,DevOps Engineer
+646,DevOps Engineer
+647,DevOps Engineer
+648,DevOps Engineer
+649,DevOps Engineer
+650,DevOps Engineer
+651,DevOps Engineer
+652,DevOps Engineer
+653,DevOps Engineer
+654,Network Security Engineer
+655,Network Security Engineer
+656,Network Security Engineer
+657,Network Security Engineer
+658,Network Security Engineer
+659,Network Security Engineer
+660,Network Security Engineer
+661,Network Security Engineer
+662,Network Security Engineer
+663,Network Security Engineer
+664,Network Security Engineer
+665,Network Security Engineer
+666,Network Security Engineer
+667,Network Security Engineer
+668,Network Security Engineer
+669,Network Security Engineer
+670,Network Security Engineer
+671,Network Security Engineer
+672,Network Security Engineer
+673,Network Security Engineer
+674,Network Security Engineer
+675,Network Security Engineer
+676,Network Security Engineer
+677,Network Security Engineer
+678,Network Security Engineer
+679,PMO
+680,PMO
+681,PMO
+682,PMO
+683,PMO
+684,PMO
+685,PMO
+686,PMO
+687,PMO
+688,PMO
+689,PMO
+690,PMO
+691,PMO
+692,PMO
+693,PMO
+694,PMO
+695,PMO
+696,PMO
+697,PMO
+698,PMO
+699,PMO
+700,PMO
+701,PMO
+702,PMO
+703,PMO
+704,PMO
+705,PMO
+706,PMO
+707,PMO
+708,PMO
+709,Database
+710,Database
+711,Database
+712,Database
+713,Database
+714,Database
+715,Database
+716,Database
+717,Database
+718,Database
+719,Database
+720,Database
+721,Database
+722,Database
+723,Database
+724,Database
+725,Database
+726,Database
+727,Database
+728,Database
+729,Database
+730,Database
+731,Database
+732,Database
+733,Database
+734,Database
+735,Database
+736,Database
+737,Database
+738,Database
+739,Database
+740,Database
+741,Database
+742,Hadoop
+743,Hadoop
+744,Hadoop
+745,Hadoop
+746,Hadoop
+747,Hadoop
+748,Hadoop
+749,Hadoop
+750,Hadoop
+751,Hadoop
+752,Hadoop
+753,Hadoop
+754,Hadoop
+755,Hadoop
+756,Hadoop
+757,Hadoop
+758,Hadoop
+759,Hadoop
+760,Hadoop
+761,Hadoop
+762,Hadoop
+763,Hadoop
+764,Hadoop
+765,Hadoop
+766,Hadoop
+767,Hadoop
+768,Hadoop
+769,Hadoop
+770,Hadoop
+771,Hadoop
+772,Hadoop
+773,Hadoop
+774,Hadoop
+775,Hadoop
+776,Hadoop
+777,Hadoop
+778,Hadoop
+779,Hadoop
+780,Hadoop
+781,Hadoop
+782,Hadoop
+783,Hadoop
+784,ETL Developer
+785,ETL Developer
+786,ETL Developer
+787,ETL Developer
+788,ETL Developer
+789,ETL Developer
+790,ETL Developer
+791,ETL Developer
+792,ETL Developer
+793,ETL Developer
+794,ETL Developer
+795,ETL Developer
+796,ETL Developer
+797,ETL Developer
+798,ETL Developer
+799,ETL Developer
+800,ETL Developer
+801,ETL Developer
+802,ETL Developer
+803,ETL Developer
+804,ETL Developer
+805,ETL Developer
+806,ETL Developer
+807,ETL Developer
+808,ETL Developer
+809,ETL Developer
+810,ETL Developer
+811,ETL Developer
+812,ETL Developer
+813,ETL Developer
+814,ETL Developer
+815,ETL Developer
+816,ETL Developer
+817,ETL Developer
+818,ETL Developer
+819,ETL Developer
+820,ETL Developer
+821,ETL Developer
+822,ETL Developer
+823,ETL Developer
+824,DotNet Developer
+825,DotNet Developer
+826,DotNet Developer
+827,DotNet Developer
+828,DotNet Developer
+829,DotNet Developer
+830,DotNet Developer
+831,DotNet Developer
+832,DotNet Developer
+833,DotNet Developer
+834,DotNet Developer
+835,DotNet Developer
+836,DotNet Developer
+837,DotNet Developer
+838,DotNet Developer
+839,DotNet Developer
+840,DotNet Developer
+841,DotNet Developer
+842,DotNet Developer
+843,DotNet Developer
+844,DotNet Developer
+845,DotNet Developer
+846,DotNet Developer
+847,DotNet Developer
+848,DotNet Developer
+849,DotNet Developer
+850,DotNet Developer
+851,DotNet Developer
+852,Blockchain
+853,Blockchain
+854,Blockchain
+855,Blockchain
+856,Blockchain
+857,Blockchain
+858,Blockchain
+859,Blockchain
+860,Blockchain
+861,Blockchain
+862,Blockchain
+863,Blockchain
+864,Blockchain
+865,Blockchain
+866,Blockchain
+867,Blockchain
+868,Blockchain
+869,Blockchain
+870,Blockchain
+871,Blockchain
+872,Blockchain
+873,Blockchain
+874,Blockchain
+875,Blockchain
+876,Blockchain
+877,Blockchain
+878,Blockchain
+879,Blockchain
+880,Blockchain
+881,Blockchain
+882,Blockchain
+883,Blockchain
+884,Blockchain
+885,Blockchain
+886,Blockchain
+887,Blockchain
+888,Blockchain
+889,Blockchain
+890,Blockchain
+891,Blockchain
+892,Testing
+893,Testing
+894,Testing
+895,Testing
+896,Testing
+897,Testing
+898,Testing
+899,Testing
+900,Testing
+901,Testing
+902,Testing
+903,Testing
+904,Testing
+905,Testing
+906,Testing
+907,Testing
+908,Testing
+909,Testing
+910,Testing
+911,Testing
+912,Testing
+913,Testing
+914,Testing
+915,Testing
+916,Testing
+917,Testing
+918,Testing
+919,Testing
+920,Testing
+921,Testing
+922,Testing
+923,Testing
+924,Testing
+925,Testing
+926,Testing
+927,Testing
+928,Testing
+929,Testing
+930,Testing
+931,Testing
+932,Testing
+933,Testing
+934,Testing
+935,Testing
+936,Testing
+937,Testing
+938,Testing
+939,Testing
+940,Testing
+941,Testing
+942,Testing
+943,Testing
+944,Testing
+945,Testing
+946,Testing
+947,Testing
+948,Testing
+949,Testing
+950,Testing
+951,Testing
+952,Testing
+953,Testing
+954,Testing
+955,Testing
+956,Testing
+957,Testing
+958,Testing
+959,Testing
+960,Testing
+961,Testing
